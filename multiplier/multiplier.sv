@@ -14,7 +14,7 @@ module multiplier (
   
     // Internal registers
     reg [31:0] a, b, z;
-    reg [22:0] a_m, b_m, z_m;
+    reg [23:0] a_m, b_m, z_m;
     reg [7:0] a_e, b_e, z_e;
     reg a_s, b_s, z_s;
     reg guard, round_bit, sticky;
