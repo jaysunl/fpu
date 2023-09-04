@@ -1,4 +1,4 @@
-module multipler_tb;
+module multiplier_tb;
 
     reg clk;
     reg rst;
