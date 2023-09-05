@@ -1,8 +1,8 @@
 # Set the working directory to the location of your project
-cd /Users/jasonliang/fpu
+cd /Users/jasonliang/fpu/multiplier
 
 # Set your project name
-set project_name "fpu"
+set project_name "multiplier"
 
 # Create a new project
 project_new $project_name -overwrite
